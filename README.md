@@ -33,12 +33,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+Here is where i configured the roles is osTicket, it is important because it allows you to define specific permissions and access levels for differnent agents within your help desk system.
+- Access Control
+- Security
+- Workflow Management
+- Customization
+- Compliance
+  
+
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/3e947951-de40-439c-b497-33f41013e802"
+<img src="https://github.com/user-attachments/assets/5ce43651-d2dc-4fc2-84f0-9b772ab6a1e8"
+ "
  "
 </p>
 <p>
