@@ -50,8 +50,17 @@ Here is where i configured the roles is osTicket, it is important because it all
  "
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+Configuring departments is osTicket is essential for organinizing the help desk and ensuring that tickets are routed efficiently.
+Here's why:
+- Ticket Routing
+- Access Control
+- Workload Distribution
+- Customization
+- Reporting & Analytics
+- Escalation & SLA Management
+
+
 <br />
 
 <p>
