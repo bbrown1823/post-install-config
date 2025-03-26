@@ -51,7 +51,7 @@ Here is where i configured the roles is osTicket, it is important because it all
 </p>
 <p>
 
-Configuring departments is osTicket is essential for organinizing the help desk and ensuring that tickets are routed efficiently.
+Configuring departments in osTicket is essential for organinizing the help desk and ensuring that tickets are routed efficiently.
 
 Here's why:
 - Ticket Routing
@@ -69,6 +69,16 @@ Here's why:
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Here is where I configured teams in osTicket, teams provide additional flexibility in agent collaboration.
+
+You might need teams in osTicket:
+- Cross-Department Collaboration
+- Specialized Support Groups
+- Ticket Escalation
+- Workload Management
+- Better Reporting & Performance Tracking
+  
+  
 </p>
 <br />
