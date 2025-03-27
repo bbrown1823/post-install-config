@@ -20,11 +20,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Employees are given usernames and are separated into different departments.
+- Each department has it's own security protocalls that only allow specific users access to certain levels of information.
+- Admins can adjust which employees see and change informatino based on the needs of the company.
+- Assignments are given to a specific person or a group based the issue at hand.
+- If needed tickets are upgraded to supervisors or higher members of the company.
 
 <h2>Configuration Steps</h2>
 
